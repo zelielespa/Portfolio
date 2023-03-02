@@ -1,0 +1,20 @@
+body{
+    background-color: #ececec;
+}
+
+.title{
+    text-decoration: underline;
+}
+
+.date{
+    font-size: 20px;
+    font-style: italic;
+}
+
+.description{
+    font-size: 18px;
+}
+
+.image img{
+    width: 300px;
+}
